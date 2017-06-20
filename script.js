@@ -106,6 +106,7 @@ if (23 == '23'){
 
 ////////////////////////////////////
 // Lecture: bolean logic and switch
+/*
 var age = 25;
 
 if (age<20){
@@ -135,3 +136,4 @@ switch (job){
     default:
         console.log('John does something else.');
 }
+*/
